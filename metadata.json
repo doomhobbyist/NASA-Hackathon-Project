@@ -1,0 +1,6 @@
+{
+  "name": "Silent Machines",
+  "description": "An interactive, human-narrated journey bringing ten ended NASA robotic explorers on Mars and deep space back to life with an animated rover, toon companion, timeline, and quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
